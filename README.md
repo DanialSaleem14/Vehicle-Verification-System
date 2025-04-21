@@ -1,4 +1,4 @@
-#🚗 Vehicle Verification System — Java + SQL + OpenCV + EasyOCR
+**🚗 Vehicle Verification System — Java + SQL + OpenCV + EasyOCR**
 An advanced desktop-based Vehicle Verification System developed using Java (JFrame) for the frontend and SQL for data management. The system verifies vehicle records and handles gate entry and exit using image processing techniques.
 
 🔍 Key Features:
