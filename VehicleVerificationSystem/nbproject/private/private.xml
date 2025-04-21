@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/AIR%20UNIVERSITY/Software%20Construction%20Development/JAVA%20project/VehicleVerificationSystem/src/vehicleverificationsystem/services/VehicleLogService.java</file>
+            <file>file:/D:/AIR%20UNIVERSITY/Software%20Construction%20Development/JAVA%20project/VehicleVerificationSystem/src/vehicleverificationsystem/dao/VehicleLogDAO.java</file>
+            <file>file:/D:/AIR%20UNIVERSITY/Software%20Construction%20Development/JAVA%20project/VehicleVerificationSystem/src/vehicleverificationsystem/database/DatabaseConnection.java</file>
+            <file>file:/D:/AIR%20UNIVERSITY/Software%20Construction%20Development/JAVA%20project/VehicleVerificationSystem/src/vehicleverificationsystem/services/NumberPlateDetection.java</file>
+            <file>file:/D:/AIR%20UNIVERSITY/Software%20Construction%20Development/JAVA%20project/VehicleVerificationSystem/src/vehicleverificationsystem/dao/VehicleDAO.java</file>
+            <file>file:/D:/AIR%20UNIVERSITY/Software%20Construction%20Development/JAVA%20project/VehicleVerificationSystem/src/vehicleverificationsystem/gui/DisplayLogsGUI.java</file>
+            <file>file:/D:/AIR%20UNIVERSITY/Software%20Construction%20Development/JAVA%20project/VehicleVerificationSystem/src/vehicleverificationsystem/services/script/number_plate_detection.py</file>
+            <file>file:/D:/AIR%20UNIVERSITY/Software%20Construction%20Development/JAVA%20project/VehicleVerificationSystem/src/vehicleverificationsystem/models/VehicleLog.java</file>
+            <file>file:/D:/AIR%20UNIVERSITY/Software%20Construction%20Development/JAVA%20project/VehicleVerificationSystem/src/vehicleverificationsystem/gui/DeleteVehicleGUI.java</file>
+            <file>file:/D:/AIR%20UNIVERSITY/Software%20Construction%20Development/JAVA%20project/VehicleVerificationSystem/src/vehicleverificationsystem/gui/MainGUI.java</file>
+            <file>file:/D:/AIR%20UNIVERSITY/Software%20Construction%20Development/JAVA%20project/VehicleVerificationSystem/src/vehicleverificationsystem/models/Vehicle.java</file>
+            <file>file:/D:/AIR%20UNIVERSITY/Software%20Construction%20Development/JAVA%20project/VehicleVerificationSystem/src/vehicleverificationsystem/gui/DetectPlateGUI.java</file>
+            <file>file:/D:/AIR%20UNIVERSITY/Software%20Construction%20Development/JAVA%20project/VehicleVerificationSystem/src/vehicleverificationsystem/gui/RegisterVehicleGUI.java</file>
+            <file>file:/D:/AIR%20UNIVERSITY/Software%20Construction%20Development/JAVA%20project/VehicleVerificationSystem/src/vehicleverificationsystem/gui/DisplayVehiclesGUI.java</file>
+            <file>file:/D:/AIR%20UNIVERSITY/Software%20Construction%20Development/JAVA%20project/VehicleVerificationSystem/src/vehicleverificationsystem/services/VehicleRegistry.java</file>
+        </group>
+    </open-files>
+</project-private>

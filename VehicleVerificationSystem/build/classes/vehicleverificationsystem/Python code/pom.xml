@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>org.opencv</groupId>
+    <artifactId>opencv</artifactId>
+    <version>4.x.x</version>
+</dependency>
